@@ -1,4 +1,4 @@
 # CarroAutonomo
 InteligenciaArtificial_Ing.HenrySontay
 
-01.jpeg
+https://github.com/PedroLuisJuarezOsorio/CarroAutonomo/blob/master/02.jpeg
